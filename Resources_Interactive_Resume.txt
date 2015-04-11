@@ -1,0 +1,32 @@
+
+Resources referred to in completing Interactive Resume Project:
+
+Websites:
+
+	w3schools.com
+
+	developers.google.com (re maps documentation)
+
+	http://eloquentjavascript.net/
+
+
+Books:
+
+	"HTML & CSS - design and build websites" by Jon Duckett
+	"JavaScript & JQuery - interactive front-end web development" by Jon Duckett
+
+
+Forums:
+
+	Udacity forum
+	http://stackoverflow.com/
+
+
+Blog posts:
+
+	N/a
+
+
+Github Repositories:
+
+	udacity/frontend-nanodegree-resume
